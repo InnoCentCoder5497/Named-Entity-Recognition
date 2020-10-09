@@ -32,14 +32,14 @@ I have trained a simple LSTM network using Word embedding layer. The Loss and Ac
 Loss Curve : 
 
 
-![Loss Curve](./imgs/LossCurve.PNG)
+![Loss Curve](./imgs/loss.PNG)
 
 Accuracy Curve : 
 
 
-![Loss Curve](./imgs/LossCurve.PNG)
+![Loss Curve](./imgs/acc.PNG)
 
-I have obtained a best accuracy of `94.77 %`.
+I have obtained a best accuracy of `93.21 %`.
 
 # References
 - deeplearning.ai, NLP Specialization - https://www.coursera.org/learn/sequence-models-in-nlp/home/welcome
